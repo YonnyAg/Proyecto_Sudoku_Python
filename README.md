@@ -28,7 +28,7 @@ Bibliotecas utilizadas
 - tkinter: Una biblioteca estándar de Python para crear interfaces gráficas.
 - time: Un módulo de Python para medir el tiempo que tarda en resolverse el puzzle.
 - messagebox: Un módulo de tkinter para mostrar mensajes emergentes cuando no se encuentra una solución.
-- 
+  
 Estructura de archivos
 - main.py: El archivo principal de la aplicación que contiene la lógica para la interfaz gráfica y el algoritmo de resolución de Sudoku.
 
